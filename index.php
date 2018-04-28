@@ -2,5 +2,7 @@
 
 	echo phpinfo();
 
+	echo "changed";
+
 
 ?>
