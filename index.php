@@ -2,7 +2,7 @@
 
 	echo phpinfo();
 
-	echo "changed";
+	echo "checking";
 
 
 ?>
